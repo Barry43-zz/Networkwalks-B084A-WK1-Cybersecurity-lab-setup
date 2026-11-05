@@ -227,7 +227,7 @@ required to run Kali Linux.
 
 ### Step 2: Download Kali Linux
 
-
+https://github.com/Barry43-zz/Networkwalks-B084A-WK1-Cybersecurity-lab-setup/blob/main/Kali%20Linux%20Download.png?raw=true
 
 Download the official Kali Linux virtual machine
 
