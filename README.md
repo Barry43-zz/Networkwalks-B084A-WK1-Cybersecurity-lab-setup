@@ -237,25 +237,11 @@ image from the Kali Linux website.
 
 ### Step 3: Import Kali Linux into VirtualBox
 
-
+https://raw.githubusercontent.com/Barry43-zz/Networkwalks-B084A-WK1-Cybersecurity-lab-setup/725e301d093d7dc159519dc84758320131e74518/Import%20Kali%20Linux.png
 
 Import the downloaded Kali Linux virtual machine
 
 into Oracle VirtualBox.
-
-
-
-Configure the following resources:
-
-
-
-- Memory allocation
-
-- Processor cores
-
-- Virtual hard disk
-
-- Network adapter
 
 
 
@@ -277,9 +263,9 @@ Adapter Type: [INTEL]
 
 Network: [NAT Network]
 
-IP Address: [Your Kali IP Address]
+IP Address: [10.0.0.2]
 
-Gateway: [Your Gateway]
+Gateway: [10.0.0.1]
 
 
 
@@ -298,7 +284,18 @@ Verify that Kali Linux boots successfully and that
 the desktop environment is accessible.
 
 
+## Step 6. Configure the Kali Linux Network
 
+The Kali Linux network configuration was checked and configured with a consistent IPv4 address.
+
+Example configuration:
+
+```text
+IP Address: 10.0.0.2
+Subnet Mask: 255.255.255.0
+Gateway: 10.0.0.1
+DNS: 8.8.8.8
+```
 
 
 
@@ -351,33 +348,8 @@ future cybersecurity experiments.
 
 
 
-## 🔍 Lab Verification
 
 
-
-The following commands can be used to verify
-
-the laboratory environment.
-
-
-
-| Test | Command |
-
-|------|---------|
-
-| Check IP Address | `ip addr` |
-
-| Check Network Interfaces | `ip link` |
-
-| Check Routing Table | `ip route` |
-
-| Test Connectivity | `ping -c 4 8.8.8.8` |
-
-| Check DNS | `nslookup google.com` |
-
-| Check Nmap | `nmap --version` |
-
-| Check System Information | `uname -a` |
 
 
 
