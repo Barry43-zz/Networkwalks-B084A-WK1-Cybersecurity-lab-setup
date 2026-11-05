@@ -238,6 +238,7 @@ image from the Kali Linux website.
 
 
 ### Step 3: Import Kali Linux into VirtualBox
+<img width="1907" height="1005" alt="image" src="https://github.com/user-attachments/assets/9ac5fc5e-4f3c-4f97-a362-a708b1a6a80d" />
 
 
 Import the downloaded Kali Linux virtual machine
