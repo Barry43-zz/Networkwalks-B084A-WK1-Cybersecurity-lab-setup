@@ -249,6 +249,7 @@ into Oracle VirtualBox.
 
 ### Step 4: Configure Network Settings
 
+<img width="1920" height="1005" alt="image" src="https://github.com/user-attachments/assets/b6bde962-1e4b-4d1d-90df-f35d204e91d3" />
 
 
 Configure the virtual machine network adapter
@@ -261,11 +262,11 @@ Network configuration:
 
 
 
-Adapter Type: [INTEL]
+Adapter: [Adapter 1]
 
 Network: [NAT Network]
 
-IP Address: [10.0.0.2]
+IPv4 Prefix: [10.0.0.0/24]
 
 Gateway: [10.0.0.1]
 
