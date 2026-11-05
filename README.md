@@ -273,9 +273,9 @@ Network configuration:
 
 
 
-Adapter: [Your Adapter Type]
+Adapter Type: [INTEL]
 
-Network: [Your Network Configuration]
+Network: [NAT Network]
 
 IP Address: [Your Kali IP Address]
 
@@ -299,27 +299,11 @@ the desktop environment is accessible.
 
 
 
-### Step 6: Update Kali Linux
 
 
 
-Open the terminal and execute:
 
-
-
-sudo apt update
-
-
-
-To upgrade installed packages:
-
-
-
-sudo apt full-upgrade
-
-
-
-### Step 7: Verify Network Connectivity
+### Step 6: Verify Network Connectivity
 
 
 
