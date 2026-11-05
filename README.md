@@ -167,43 +167,6 @@ to simulate attacker and target environments.
 
 
 
----
-
-
-
-## ⚙️ System Configuration
-
-
-
-The following table documents the laboratory
-
-configuration.
-
-
-
-| Component | Configuration |
-
-|-----------|---------------|
-
-| Host Operating System | [Windows] |
-
-| Virtualization Software | Oracle VirtualBox |
-
-| Virtual Machine OS | Kali Linux |
-
-| Allocated RAM | [Your RAM] |
-
-| CPU Cores | [Your CPU Cores] |
-
-| Virtual Disk | [Your Disk Size] |
-
-| Network Adapter | [NAT / NAT Network / Host-Only] |
-
-
-
----
-
-
 
 ## 🚀 Lab Setup Procedure
 
@@ -288,6 +251,7 @@ the desktop environment is accessible.
 
 
 ## Step 6. Configure the Kali Linux Network
+<img width="1920" height="891" alt="image" src="https://github.com/user-attachments/assets/1e5082ac-9461-42c4-9ea6-2b432616c5bb" />
 
 The Kali Linux network configuration was checked and configured with a consistent IPv4 address.
 
@@ -349,64 +313,6 @@ future cybersecurity experiments.
 
 ---
 
-
-
-
-
-
-
-
----
-
-
-
-## 📸 Project Screenshots
-
-
-
-Screenshots documenting the laboratory setup
-
-are available below.
-
-
-
-### 1. VirtualBox Environment
-
-
-
-![VirtualBox](screenshots/virtualbox-dashboard.png)
-
-
-
-### 2. Kali Linux Desktop
-
-
-
-![Kali Linux](screenshots/kali-linux-desktop.png)
-
-
-
-### 3. Kali Linux Terminal
-
-
-
-![Kali Terminal](screenshots/kali-terminal.png)
-
-
-
-### 4. Network Configuration
-
-
-
-![Network Configuration](screenshots/network-configuration.png)
-
-
-
-### 5. Cybersecurity Lab Environment
-
-
-
-![Lab Environment](screenshots/lab-environment.png)
 
 
 
