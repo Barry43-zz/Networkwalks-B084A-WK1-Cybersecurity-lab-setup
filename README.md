@@ -135,27 +135,11 @@ as a virtual machine.
 
 Host Machine
 
-|
-
-|
-
 Oracle VirtualBox
-
-|
-
-|
 
 Kali Linux
 
-|
-
-|
-
 Virtual Network
-
-|
-
-|
 
 Cybersecurity Lab
 
@@ -236,6 +220,7 @@ Gateway: [10.0.0.1]
 
 
 ### Step 5: Start Kali Linux
+<img width="1920" height="891" alt="image" src="https://github.com/user-attachments/assets/62550503-8679-44b4-a02b-cf7b6227ab6b" />
 
 
 
@@ -271,19 +256,13 @@ DNS: 8.8.8.8
 
 
 
-Check the assigned IP address:
-
-
-
-ip addr
-
-
 
 Check network connectivity:
 
 
 
-ping -c 4 8.8.8.8
+ping 8.8.8.8
+<img width="1920" height="891" alt="image" src="https://github.com/user-attachments/assets/7f7f4253-7912-4208-8c7a-50302e7356bd" />
 
 
 
@@ -293,10 +272,12 @@ Check DNS resolution:
 
 nslookup google.com
 
+<img width="1920" height="891" alt="image" src="https://github.com/user-attachments/assets/e0b3844e-e36e-4cb5-8c6f-3c0b454531dc" />
 
 
 ### Step 8: Create a Virtual Machine Snapshot
 
+<img width="1221" height="997" alt="image" src="https://github.com/user-attachments/assets/82edf1be-f179-4302-8fa0-7f570c3f334f" />
 
 
 Create a snapshot of the configured Kali Linux
