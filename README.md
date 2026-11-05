@@ -228,7 +228,8 @@ required to run Kali Linux.
 
 ### Step 2: Download Kali Linux
 
-https://github.com/Barry43-zz/Networkwalks-B084A-WK1-Cybersecurity-lab-setup/blob/main/Kali%20Linux%20Download.png?raw=true
+<img width="1916" height="959" alt="image" src="https://github.com/user-attachments/assets/e64d9799-5c7e-4f23-aa67-ff055337e8b8" />
+
 
 Download the official Kali Linux virtual machine
 
@@ -238,7 +239,6 @@ image from the Kali Linux website.
 
 ### Step 3: Import Kali Linux into VirtualBox
 
-https://raw.githubusercontent.com/Barry43-zz/Networkwalks-B084A-WK1-Cybersecurity-lab-setup/725e301d093d7dc159519dc84758320131e74518/Import%20Kali%20Linux.png
 
 Import the downloaded Kali Linux virtual machine
 
