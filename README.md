@@ -211,7 +211,8 @@ configuration.
 
 ### Step 1: Install Oracle VirtualBox
 
-https://github.com/Barry43-zz/Networkwalks-B084A-WK1-Cybersecurity-lab-setup/blob/main/Virtual%20box%20download.png?raw=true
+<img width="1915" height="999" alt="image" src="https://github.com/user-attachments/assets/003771ad-03af-45a9-9312-2bd1b27a902f" />
+
 
 Download and install Oracle VirtualBox on the
 
